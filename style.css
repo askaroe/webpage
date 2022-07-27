@@ -1,0 +1,21 @@
+body {
+ background-image: url("city.gif");
+ background-color: #cccccc;
+ background-position: center center;
+ background-attachment: fixed;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+h1{
+	font-family: "press Start 2P";
+	color: white;
+}
+h2{
+		font-family: "press Start 2P";
+		color: white;
+		position: relative;
+		top: 70px;
+		left: 100px;
+
+}
